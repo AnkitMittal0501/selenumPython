@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4fcde79-f994-4e4e-9939-caf522970aec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment_Django/.idea/Assignment_Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BatchOops/.idea/BatchOops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BatchOops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BatchOops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BatchOops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BatchOops/oops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BatchOops/oops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BatchOops/oops/.idea/oops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BatchOops/oops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BatchOops/oops/ooops_first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BharatProject/.idea/BharatProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dhawal_Mahima_OOPS/.idea/Dhawal_Mahima_OOPS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dhawal_Mahima_OOPS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dhawal_Mahima_OOPS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dhawal_Mahima_OOPS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_New_Batch/.idea/Django_New_Batch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPNetworking/.idea/IPNetworking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPNetworking/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPNetworking/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPNetworking/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SamplePy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider/MultiThreading/.idea/MultiThreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider/MultiThreading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider/MultiThreading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider/MultiThreading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider/Mysql1332/mymy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_45678/OOPS.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_PyFrameworkFIle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_PyFrameworkFIle2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_param.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytest.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PyFrameworkFIle.py" />
+        <option value="$PROJECT_DIR$/param.py" />
+        <option value="$PROJECT_DIR$/test_param.py" />
+        <option value="$PROJECT_DIR$/test_PyFrameworkFIle.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/test_PyFrameworkFIle2.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="1024" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SamplePy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SamplePy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SamplePy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SamplePy" type="462c0819:PsiDirectoryNode" />
+              <item name="venvDjangoen" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\official\Python_Projects\SamplePy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_PyFrameworkFIle2.test_fixtureSample">
+    <configuration name="pytest for test_PyFrameworkFIle2.test2_method1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SamplePy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_PyFrameworkFIle2.test2_method1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_PyFrameworkFIle2.test2_method2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SamplePy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_PyFrameworkFIle2.test2_method2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_PyFrameworkFIle2.test_fixtureSample" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SamplePy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_PyFrameworkFIle2.test_fixtureSample&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_param.test_dataparam" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SamplePy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_param.test_dataparam&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_PyFrameworkFIle2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SamplePy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_PyFrameworkFIle2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_PyFrameworkFIle2.test_fixtureSample" />
+        <item itemvalue="Python tests.pytest for test_PyFrameworkFIle2.test2_method2" />
+        <item itemvalue="Python tests.pytest in test_PyFrameworkFIle2.py" />
+        <item itemvalue="Python tests.pytest for test_PyFrameworkFIle2.test2_method1" />
+        <item itemvalue="Python tests.pytest for test_param.test_dataparam" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4fcde79-f994-4e4e-9939-caf522970aec" name="Default Changelist" comment="" />
+      <created>1587296961923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587296961923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_PyFrameworkFIle_test1_method1 - 2020.04.19 at 17h 38m 56s.xml">
+      <configuration name="pytest for test_PyFrameworkFIle.test1_method1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_PyFrameworkFIle_test1_method1 - 2020.04.19 at 17h 40m 01s.xml">
+      <configuration name="pytest for test_PyFrameworkFIle.test1_method1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_PyFrameworkFIle_test1_method1 - 2020.04.19 at 17h 41m 01s.xml">
+      <configuration name="pytest for test_PyFrameworkFIle.test1_method1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_param_test_add - 2020.04.19 at 17h 58m 09s.xml">
+      <configuration name="pytest for test_param.test_add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_param_test_dataparam - 2020.04.19 at 18h 04m 43s.xml">
+      <configuration name="pytest for test_param.test_dataparam" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_PyFrameworkFIle2_test2_method1 - 2020.06.28 at 17h 32m 21s.xml">
+      <configuration name="pytest for test_PyFrameworkFIle2.test2_method1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_PyFrameworkFIle2_py - 2020.06.28 at 17h 33m 45s.xml">
+      <configuration name="pytest in test_PyFrameworkFIle2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_PyFrameworkFIle2_test2_method2 - 2020.06.28 at 17h 35m 32s.xml">
+      <configuration name="pytest for test_PyFrameworkFIle2.test2_method2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_PyFrameworkFIle2_test_fixtureSample - 2020.06.28 at 17h 37m 22s.xml">
+      <configuration name="pytest for test_PyFrameworkFIle2.test_fixtureSample" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_PyFrameworkFIle2_test_fixtureSample - 2020.06.28 at 17h 38m 07s.xml">
+      <configuration name="pytest for test_PyFrameworkFIle2.test_fixtureSample" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38134205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28150573" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.57937807" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.14729951" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_param.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_PyFrameworkFIle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_PyFrameworkFIle2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
